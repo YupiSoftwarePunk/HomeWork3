@@ -12,3 +12,4 @@ C:\Users\Denis\Documents\projects C#\Homework3\obj\Debug\net8.0\refint\Homework3
 C:\Users\Denis\Documents\projects C#\Homework3\obj\Debug\net8.0\Homework3.pdb
 C:\Users\Denis\Documents\projects C#\Homework3\obj\Debug\net8.0\Homework3.genruntimeconfig.cache
 C:\Users\Denis\Documents\projects C#\Homework3\obj\Debug\net8.0\ref\Homework3.dll
+C:\Users\Denis\Documents\projects C#\Homework3\obj\Debug\net8.0\Homework3.sourcelink.json
