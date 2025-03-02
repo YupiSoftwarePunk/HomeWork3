@@ -12,7 +12,7 @@ namespace Homework3
         private double _calories;
         private double _weight;
 
-        public override double GetDishPrice()
+        public override string GetDishPrice()
         {
             return base.GetDishPrice();
         }

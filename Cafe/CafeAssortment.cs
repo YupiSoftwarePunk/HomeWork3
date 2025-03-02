@@ -15,9 +15,10 @@ namespace Homework3
 
         public virtual string Info() => $"Название блюда: {_dishName}, цена: {_price}, категория: {_category}";
 
-        public virtual double GetDishPrice()
+        public virtual string GetDishPrice()
         {
-            return _price / _weight;
+            double res = _price / _weight;
+            return $"Стоимость одного грамма блюда будет равна: {res}";
         }
 
         public virtual string CostOfDrink(int percent)
